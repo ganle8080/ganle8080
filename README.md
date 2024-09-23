@@ -1,12 +1,13 @@
-- 👋 Hi, I’m @ganle8080
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-
-<!---
-ganle8080/ganle8080 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+2021-2023年从事于IT技术行业
+深耕于此，但长期的黑白代码和重复的业务功能开发让我产生了疲倦
+在2023年我逃离了IT，开始去寻找自由
+我去过了大雪纷飞的北方，到过了海拍提岸的南方
+发现我所追寻的自由好像和旅行没有关系
+我开始从事起业务，每天就是应酬和人沟通拉扯
+慢慢地，我开始发现
+IT行业其实也不错，原本我就是喜欢IT，喜欢去做出自己的产品
+原本我看起来黑白的代码开始有了色彩
+我想要的不是去完成工作，我想要的是和大学时做出第一个作品的时候，老师的鼓励和同学的称赞
+我想要的只是认可
+先如今2024-09，我想着给自己6个月时间，再次回到IT行业，我还没有丢失热爱，我只是需要仍可
+底下是日后的进度分享：
